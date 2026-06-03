@@ -1,5 +1,5 @@
 {
-    "name": "focashi",
+    "name": "ArdhitaOffc",
     "version": "1.0.2",
     "description": "WhatsApp API Modification By Amane from Socketon",
     "publishConfig": {
@@ -15,9 +15,9 @@
         "automation",
         "messaging"
     ],
-    "homepage": "https://github.com/AmaneOfc/Shikimori",
+    "homepage": "https://github.com/Ardhita-Bot/Baileys-YosoiMD",
     "repository": {
-        "url": "https://github.com/AmaneOfc/Shikimori"
+        "url": "https://github.com/Ardhita-Bot/Baileys-YosoiMD"
     },
     "license": "MIT",
     "author": "AmaneOfc",
